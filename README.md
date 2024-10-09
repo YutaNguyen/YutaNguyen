@@ -1,4 +1,4 @@
-# Hi there! I'm Yuta 👋
+# Hi there! I'm Trieu Nguyen 👋
 
 <!--
 **yutanguyen/yutanguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
